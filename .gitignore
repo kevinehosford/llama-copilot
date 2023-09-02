@@ -1,0 +1,6 @@
+index_persist
+docs.pkl
+.env
+
+# virtualenv
+llama-copilot
